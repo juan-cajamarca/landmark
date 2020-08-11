@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		370166A424E30DC000565A0B /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 370166A324E30DC000565A0B /* CircleImage.swift */; };
 		3785ABF824E30AE8003CF947 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3785ABF724E30AE8003CF947 /* AppDelegate.swift */; };
 		3785ABFA24E30AE8003CF947 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3785ABF924E30AE8003CF947 /* SceneDelegate.swift */; };
 		3785ABFC24E30AE8003CF947 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3785ABFB24E30AE8003CF947 /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		370166A324E30DC000565A0B /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		3785ABF424E30AE8003CF947 /* Landmark.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmark.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3785ABF724E30AE8003CF947 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3785ABF924E30AE8003CF947 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				3785ABF724E30AE8003CF947 /* AppDelegate.swift */,
 				3785ABF924E30AE8003CF947 /* SceneDelegate.swift */,
 				3785ABFB24E30AE8003CF947 /* ContentView.swift */,
+				370166A324E30DC000565A0B /* CircleImage.swift */,
 				3785ABFD24E30AEB003CF947 /* Assets.xcassets */,
 				3785AC0224E30AEB003CF947 /* LaunchScreen.storyboard */,
 				3785AC0524E30AEB003CF947 /* Info.plist */,
@@ -146,6 +149,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3785ABF824E30AE8003CF947 /* AppDelegate.swift in Sources */,
+				370166A424E30DC000565A0B /* CircleImage.swift in Sources */,
 				3785ABFA24E30AE8003CF947 /* SceneDelegate.swift in Sources */,
 				3785ABFC24E30AE8003CF947 /* ContentView.swift in Sources */,
 			);
