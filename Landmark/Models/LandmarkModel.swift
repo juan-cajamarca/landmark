@@ -8,7 +8,7 @@
 import SwiftUI
 import CoreLocation
 
-struct LandmarkModel: Hashable, Codable {
+struct LandmarkModel: Hashable, Codable, Identifiable {
     var id: Int
     var name: String
     fileprivate var imageName: String
