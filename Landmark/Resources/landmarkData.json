@@ -34,7 +34,7 @@
         "state": "Alaska",
         "id": 1003,
         "park": "Klondike Gold Rush National Historical Park",
-        "isFavorite": false,
+        "isFavorite": true,
         "coordinates": {
             "longitude": -135.334571,
             "latitude": 59.560551
@@ -48,7 +48,7 @@
         "state": "Montana",
         "id": 1004,
         "park": "Glacier National Park",
-        "isFavorite": false,
+        "isFavorite": true,
         "coordinates": {
             "longitude": -113.536248,
             "latitude": 48.69423
