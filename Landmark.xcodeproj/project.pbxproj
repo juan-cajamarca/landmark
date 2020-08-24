@@ -35,6 +35,7 @@
 		3785ABFE24E30AEB003CF947 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3785ABFD24E30AEB003CF947 /* Assets.xcassets */; };
 		3785AC0124E30AEB003CF947 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3785AC0024E30AEB003CF947 /* Preview Assets.xcassets */; };
 		3785AC0424E30AEB003CF947 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3785AC0224E30AEB003CF947 /* LaunchScreen.storyboard */; };
+		37C166DD24F43209004A67A9 /* Badge.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37C166DC24F43209004A67A9 /* Badge.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -68,6 +69,7 @@
 		3785AC0024E30AEB003CF947 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3785AC0324E30AEB003CF947 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3785AC0524E30AEB003CF947 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		37C166DC24F43209004A67A9 /* Badge.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Badge.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 				370166A324E30DC000565A0B /* CircleImage.swift */,
 				370166A524E30E8400565A0B /* MapView.swift */,
 				378438F024EE57D400DF57E3 /* CategoryRow.swift */,
+				37C166DC24F43209004A67A9 /* Badge.swift */,
 			);
 			path = "Supporting Views";
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 				37437D9A24E4FCDE00455F43 /* LandmarkRow.swift in Sources */,
 				378438ED24EE4DAF00DF57E3 /* UserData.swift in Sources */,
 				378438F124EE57D400DF57E3 /* CategoryRow.swift in Sources */,
+				37C166DD24F43209004A67A9 /* Badge.swift in Sources */,
 				370166A924E3112100565A0B /* LandmarkModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
