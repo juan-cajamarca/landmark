@@ -103,19 +103,26 @@
 		370166AC24E3135E00565A0B /* Supporting Views */ = {
 			isa = PBXGroup;
 			children = (
+				372CE4CB24F56E2300156664 /* Badge */,
 				37437DB324E4FFA000455F43 /* LandmarkList.swift */,
 				37437D9924E4FCDE00455F43 /* LandmarkRow.swift */,
 				3785ABFB24E30AE8003CF947 /* LandmarkDetail.swift */,
 				370166A324E30DC000565A0B /* CircleImage.swift */,
 				370166A524E30E8400565A0B /* MapView.swift */,
 				378438F024EE57D400DF57E3 /* CategoryRow.swift */,
-				37C166DC24F43209004A67A9 /* Badge.swift */,
-				37C166DE24F432BD004A67A9 /* HexagonParameters.swift */,
+			);
+			path = "Supporting Views";
+			sourceTree = "<group>";
+		};
+		372CE4CB24F56E2300156664 /* Badge */ = {
+			isa = PBXGroup;
+			children = (
 				3721643B24F5690900826CD6 /* BadgeBackground.swift */,
+				37C166DC24F43209004A67A9 /* Badge.swift */,
 				3721643D24F569E100826CD6 /* BadgeSymbol.swift */,
 				3721643F24F56BB100826CD6 /* RotatedBadgeSymbol.swift */,
 			);
-			path = "Supporting Views";
+			path = Badge;
 			sourceTree = "<group>";
 		};
 		37437D9624E4FBED00455F43 /* Resources */ = {
@@ -135,6 +142,7 @@
 				37437DA324E4FE2B00455F43 /* yukon_charleyrivers.jpg */,
 				37437D9724E4FC1D00455F43 /* landmarkData.json */,
 				378438EC24EE4DAF00DF57E3 /* UserData.swift */,
+				37C166DE24F432BD004A67A9 /* HexagonParameters.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
